@@ -1,5 +1,6 @@
 # Time_Series_and_forecasting_project_MTHMTH442A
-Time_series_analysis_on_walmart_data_MTH442A
+
+
  We will work on prediciting the future sales at Walmart based on heirarchical sales in the states of California, Texas, and Wisconsin. Forecasting sales, revenue, and stock prices is a classic application of machine learning in economics, and it is important because it allows investors to make guided decisions based on forecasts made by algorithms.
 
 * In this project, we will briefly explain the structure of dataset.
