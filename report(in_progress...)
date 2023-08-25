@@ -1,0 +1,18 @@
+#The dataset 
+The dataset consists of five .csv files.
+
+calendar.csv - Contains the dates on which products are sold. The dates are in a yyyy/dd/mm format.
+
+sales_train_validation.csv - Contains the historical daily unit sales data per product and store [d_1 - d_1913].
+
+submission.csv - Demonstrates the correct format for submission to the competition.
+
+sell_prices.csv - Contains information about the price of the products sold per store and date.
+
+sales_train_evaluation.csv - Available one month before the competition deadline. It will include sales for [d_1 - d_1941].
+
+We need to forecast the sales for [d_1942 - d_1969]. These rows form the evaluation set.
+
+The rows [d_1914 - d_1941] form the validation set, and the remaining rows form the training set.
+
+Now, since we understand the dataset and know what to predict, let us visualize the dataset.
